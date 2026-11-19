@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\pr\\9\\project1\\project1\\dod.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\pr\\9\\project1\\project1\\dod.h",
+            "d:\\pr\\9\\project1\\project1\\var.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
